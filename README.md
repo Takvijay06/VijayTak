@@ -1,139 +1,164 @@
-<div align="center">
+# Hi 👋, I'm Vijay Tak
 
-# Hey there I'm Vijay Tak
+<h3 align="center">
+Senior Frontend Engineer • React & Next.js Specialist • Building Scalable SaaS Platforms
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+TypeScript+Developer;Building+Modern+Web+Experiences;Open+Source+Enthusiast;Always+Learning+New+Things+🚀" />
-
-<img src="https://komarev.com/ghpvc/?username=takvijay06&label=Profile+Views&color=0e75b6&style=flat" />
-
-</div>
-
----
-
-# 💫 About Me
-
-🚀 Passionate Frontend Developer from India  
-💻 Specializing in React, TypeScript & Modern Web Apps  
-⚡ Love building scalable and reusable UI systems  
-🔥 Interested in Performance Optimization & UX  
-🌱 Currently exploring advanced backend architecture & cloud technologies
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mj835&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Mj835?style=for-the-badge" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Mj835?style=for-the-badge" alt="stars" />
 </p>
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 About Me
 
-<div align="center">
+I’m a **Senior Frontend Engineer** with 5+ years of experience building scalable SaaS products, enterprise dashboards, and modern web applications.
 
-## Frontend
-<img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,sass,vite,webpack" />
+I specialize in:
 
-## Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,supabase" />
+* ⚡ Building scalable frontend architectures
+* ⚡ Creating reusable component systems
+* ⚡ Performance optimization & accessibility
+* ⚡ Multi-tenant dashboard platforms
+* ⚡ Complex state management & data-heavy UIs
+* ⚡ Modern React ecosystem & frontend scalability
 
-## Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+I enjoy transforming complex business workflows into fast, maintainable, and user-friendly frontend experiences.
 
 ---
 
-# 🔥 GitHub Streak
+## 💼 What I’ve Built
 
-<div align="center">
+### 🏗 Enterprise Dashboard Platforms
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+Built and scaled multiple enterprise-grade dashboards with:
 
-</div>
+* RBAC & OAuth authentication systems
+* Analytics & marketing intelligence modules
+* Reusable design systems
+* Custom hooks architecture
+* Server-side pagination & optimized data fetching
+* AI-assisted frontend workflows
 
----
+### ⚡ Frontend Performance Optimization
 
-# 🏆 GitHub Trophies
+Worked on improving:
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
-
-</div>
+* Lighthouse scores
+* Bundle optimization
+* Lazy loading strategies
+* Rendering performance
+* Developer productivity
+* Accessibility (WCAG)
 
 ---
 
-# 🐍 Contribution Snake
+## 🛠 Tech Stack
 
-<div align="center">
+### Frontend
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,sass,vite" />
+</p>
 
-</div>
+### State Management & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=graphql,firebase" />
+</p>
+
+* Redux Toolkit
+* React Query / TanStack Query
+* Zustand
+* Context API
+* REST APIs
+* Axios
+
+### Testing & Quality
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,cypress" />
+</p>
+
+### Dev Tools & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" />
+</p>
+
+* Sentry
+* LogRocket
+* CI/CD
+* Lighthouse
+* AI-assisted development tools
 
 ---
 
-# 💻 Featured Projects
+## 📈 Professional Highlights
 
-## 🚀 Dreamy Clouds
-Modern web experience focused on UI/UX improvements and customer engagement.
-
-## 📊 AG Grid Dashboard
-Advanced dashboard with collapsible groups, tabs, and dynamic rendering.
-
-## 🔐 Authentication & Onboarding System
-Complete onboarding flow with profile setup, validations, and reusable components.
-
----
-
-# ✨ Developer Quote
-
-<div align="center">
-
-### "Great UI is invisible. Great UX is unforgettable."
-
-</div>
+* 🚀 Delivered 5+ enterprise SaaS applications
+* ⚡ Improved application performance by ~25%
+* 🧩 Built 40+ reusable UI components
+* 🔁 Developed 50+ reusable custom hooks
+* 🔐 Implemented scalable RBAC & OAuth systems
+* 🧪 Reduced regressions using Cypress E2E testing
+* ♿ Improved accessibility scores from 75 → 95+
+* 🤝 Collaborated across frontend, backend, QA & product teams
 
 ---
 
-<div align="center">
+## 🌐 Connect With Me
 
-## ⚡ Thanks for visiting my profile ⚡
+<p align="left">
+  <a href="https://linkedin.com/in/smjdeveloper" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/Mj835" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://twitter.com/developersmj" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
 
-### Let's build something amazing together 🚀
+📫 Email: **[takvijay06@gmail.com](mailto:2muskanjaiswal@gmail.com)**
 
-</div>
+🌍 Portfolio: **[[(https://portfolio-netflix-vj.vercel.app/)](https://portfolio-netflix-vj.vercel.app/)]**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=takvijay06&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takvijay06&layout=compact&theme=tokyonight" alt="languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=takvijay06&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/takvijay06/takvijay06/blob/output/snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 💡 Engineering Philosophy
+
+> I believe great frontend engineering is not only about building beautiful UI — it’s about creating scalable systems, improving developer experience, solving real business problems, and delivering smooth user experiences at scale.
+
+---
+
+## ⚡ Fun Fact
+
+I genuinely enjoy debugging complex frontend issues and optimizing applications for performance.
