@@ -112,18 +112,18 @@ Worked on improving:
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/smjdeveloper" target="_blank">
+  <a href="https://linkedin.com/in/takvijay06" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/Mj835" target="_blank">
+  <a href="https://github.com/takvijay06" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://twitter.com/developersmj" target="_blank">
+  <!-- <a href="https://twitter.com/developersmj" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
+  </a> -->
 </p>
 
-📫 Email: **[takvijay06@gmail.com](mailto:2muskanjaiswal@gmail.com)**
+📫 Email: **[takvijay06@gmail.com](mailto:takvijay06@gmail.com)**
 
 🌍 Portfolio: **[[(https://portfolio-netflix-vj.vercel.app/)](https://portfolio-netflix-vj.vercel.app/)]**
 
