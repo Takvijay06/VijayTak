@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey there 👋 I'm Vijay Tak
+# Hey there I'm Vijay Tak
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+TypeScript+Developer;Building+Modern+Web+Experiences;Open+Source+Enthusiast;Always+Learning+New+Things+🚀" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=takvijay06&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
 
